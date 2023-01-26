@@ -6,4 +6,5 @@ public class BookJson {
         public String language;
         public String edition;
         public String author;
+        public int[] store_id;
     }

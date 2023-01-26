@@ -3,12 +3,14 @@
 "author": "Herbert Schildt",
 "edition": "third",
 "amount": 10,
-"language": "Java"
+"language": "Java",
+"store_id": [222 ,225, 232]
 },
 {
 "author": "Steven Prata",
 "edition": "sixth",
 "amount": 18,
-"language": "C++"
+"language": "C++",
+"store_id": [234, 221, 232]
 }
 ]

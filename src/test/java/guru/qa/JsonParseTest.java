@@ -29,6 +29,8 @@ public class JsonParseTest {
             assertThat(bookJson[0].amount).isEqualTo(10);
             assertThat(bookJson[1].language).isEqualTo("C++");
             assertThat(bookJson[1].edition).isEqualTo("sixth");
+            assertThat(bookJson[0].store_id).contains(232);
+
         }
     }
 }
