@@ -19,6 +19,7 @@ public class ParsePractice {
 
     @Test
     void zipParseTest() throws Exception {
+
         try (
                 InputStream resource = classLoader.getResourceAsStream("homework.zip");
                 ZipInputStream zis = new ZipInputStream(resource)
@@ -42,11 +43,6 @@ public class ParsePractice {
     }
 
 
-    @Test
-    void jsonParseTest() {
-
-
-    }
 }
 
 

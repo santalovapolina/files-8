@@ -1,0 +1,14 @@
+[
+{
+"author": "Herbert Schildt",
+"edition": "third",
+"amount": 10,
+"language": "Java"
+},
+{
+"author": "Steven Prata",
+"edition": "sixth",
+"amount": 18,
+"language": "C++"
+}
+]
